@@ -1,2 +1,2 @@
-systemctl suspend
 i3lock-fancy
+systemctl suspend
